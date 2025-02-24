@@ -1,4 +1,4 @@
-## Hi there 👋
+# sehwan Jung 👋
 
 <!--
 **sehwanJung/sehwanJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### 스킬 
+- Network (cisco route, L2,L3)
+- AWS (RDS, EC2, IAM, VPC...)
+- K8S
+- Docker
+- Linux (Rocky9)
+- Ubuntu (24.04, 22.04, 20.04)
+- Windows Server
+- Google Cloud
